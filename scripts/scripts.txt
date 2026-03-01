@@ -1,0 +1,4 @@
+scripts\Training_Updated.py
+cd C:\Users\Aidan\Desktop\Copra_AI
+
+scp Desktop\Copra_AI\Copra_Test_UpdateV2.tflite aldenrecharge@copraqc:/home/aldenrecharge/Desktop
